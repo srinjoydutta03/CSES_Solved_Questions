@@ -1,4 +1,4 @@
-package CSES.Sorting_And_Searching.Java;
+package CSES_Solved_Questions.Sorting_And_Searching.Java;
 
 import java.io.BufferedReader;
 import java.io.IOException;
